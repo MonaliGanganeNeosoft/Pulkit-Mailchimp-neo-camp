@@ -1,0 +1,18 @@
+aniket->customer portal
+ganesh->calender fixes
+vrushali->menu changes,delete environment
+sushant->details page ui
+prashant->invitation apis
+
+backend
+ashish->inventory setting api
+dushyant->activity tracking
+mehant->imge error
+priyanka->admin view,breasts
+pranjil->auth issue
+
+bc->
+google bots,aws
+
+testing->
+abijit->
